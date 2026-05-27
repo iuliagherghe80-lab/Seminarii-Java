@@ -1,0 +1,35 @@
+Bank Account System with OOP and Exceptions:
+
+
+You are building a simple banking system.
+
+The system must support:
+
+creating bank accounts
+
+depositing money
+
+withdrawing money
+
+preventing invalid operations
+
+Errors must be handled using custom exceptions.
+
+Create the following classes: 
+BankAccount
+SavingsAccount
+InvalidAmountException
+InsufficientFundsException
+BankApp (main program)
+
+Create methods that  respond to this necessities: 
+
+creating bank accounts
+
+depositing money
+
+withdrawing money
+
+preventing invalid operations
+
+Create custom exception classes for at least 2 of the scenarios above. 

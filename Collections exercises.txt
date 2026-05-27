@@ -1,0 +1,89 @@
+1. Create an ArrayList<String> of student names
+
+	Add at least 5 names
+
+	Print all names
+
+	Remove the 3rd name
+
+
+
+2. Sum of Integers
+
+	 Create a List<Integer>
+
+	 Add 10 numbers
+
+	 Calculate the sum and average
+
+
+
+3. Reverse a list: 
+
+	Given a list of integers, reverse it manually
+
+
+
+4. Unique Words Counter
+
+	Given a sentence, split it into words
+
+	Store them in a Set<String>
+
+	Print unique words and their count
+
+
+
+5. Word Frequency Counter
+
+	Input: "apple banana apple orange banana apple"
+
+	Use a Map<String, Integer>
+
+	Count how many times each word appears
+
+
+
+6. Phone Book
+
+	Create a Map<String, String> (name → phone)
+
+	Add entries
+
+	Search by name
+
+	Print all entries
+
+
+
+7. Students management system 
+
+-given the following class: 
+
+class Student {
+
+    String name;
+
+    int grade;
+
+}
+
+	Store students in a List<Student>
+
+	Print all students
+
+	Find the student with the highest grade
+
+
+
+8.Sort students by:
+
+       Name (alphabetically)
+
+       Grade (descending)
+
+
+
+9.Remove Duplicates from Objects
+
+Given a list of students (with duplicates), remove duplicates

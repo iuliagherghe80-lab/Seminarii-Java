@@ -1,0 +1,41 @@
+Reflection
+Tasks: 
+
+
+
+Print class information
+Given a class Student, print its class name, package name, superclass, and implemented interfaces.
+List all fields
+Print all declared fields of a class, including their names, types, and modifiers.
+List all methods
+Print all declared methods of a class, including return type, parameters, and modifiers.
+Create an object dynamically
+Use reflection to create an instance of a class with a no-argument constructor.
+Call a public method
+Invoke a public method like sayHello() using reflection.
+Intermediate
+Access a private field
+Read and modify a private field such as private String name.
+Invoke a private method
+Call a private method using setAccessible(true).
+Constructor selection
+Create objects using different constructors, such as:
+                 Student()
+                 Student(String name)
+                 Student(String name, int age)
+      9. Build a simple object inspector
+              void inspect(Object obj). -It should print all fields and their current values.
+
+
+      10. JSON serializer
+         Convert an object into JSON by reading its fields with reflection.
+
+         Example output:
+
+
+
+                     {"name":"Ana","age":20}
+
+        11. CSV mapper
+
+       Read a CSV row and create an object by matching column names to fields.
